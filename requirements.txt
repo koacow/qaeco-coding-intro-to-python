@@ -1,0 +1,6 @@
+requests
+pandas
+matplotlib
+PIL
+dotenv
+datetime
