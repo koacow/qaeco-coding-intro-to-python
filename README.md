@@ -1,6 +1,6 @@
 # Khoa's HTTP Request, API, Pandas, and Matplotlib demo
 ## Overview
-My Python demo for Melbourne University's Quantitative Ecologists Coding Club. The demo covers the applications of Python in data science, specifically **HTTP Requests**, **REST APIs**, **Pandas**, and **Matplotlib**.
+My Python demo for Melbourne University's Quantitative Ecologists Coding Club. The demo covers the applications of Python in data science, specifically **environment variables**, **HTTP Requests**, **REST APIs**, **Pandas**, and **Matplotlib**.
 
 ## How to use
 
